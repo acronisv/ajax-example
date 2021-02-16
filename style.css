@@ -1,0 +1,11 @@
+button {
+    width: 90px;
+}
+.container{
+    max-width: 300px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
